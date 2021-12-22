@@ -26,6 +26,10 @@ function multiply(a, b){
   return a * b
 }
 ```
+## __Experience work__ ##
+
+* __in programming , zero__ 
+
 ## __Education__ ##
 
 * __Code-basics - HTML for beginners__
