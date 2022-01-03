@@ -9,6 +9,11 @@ html {
 	scroll-behavior: smooth; 
  }
  
+ .img {
+	width: 250px;
+	height: 330px;
+ }
+
  body {
 	 font-family: 'Roboto' sans-serif;
 	 font-size: 18px;
